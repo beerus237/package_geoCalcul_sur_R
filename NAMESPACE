@@ -1,0 +1,1 @@
+export(perimetre_carre, surface_carre, perimetre_rectangle, surface_rectangle)
